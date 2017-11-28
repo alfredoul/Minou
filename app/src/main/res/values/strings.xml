@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Minou - Asociado</string>
+    <string name="authentication_label">Anonymous Authentication with Firebase</string>
+    <string name="create_room_label">Create room</string>
+    <string name="existing_room_label">Enter existing</string>
+    <string name="room_dialog_heading">Enter room name</string>
+    <string name="dialog_room_info">Name of the room is your token by which you can connect with the person who entered the same room name as your</string>
+    <string name="text_submit">Submit</string>
+    <string name="success_message_authentication">Authentication is successful</string>
+    <string name="chats_heading">Messages</string>
+    <string name="hint_room_name">Room name</string>
+    <string name="hint_typing">Type here</string>
+    <string name="send_text">Send</string>
+    <string name="text_waiting_for_auth">Authenticating, this may take 1 minute</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="create_account_button">Crear cuenta de usuario</string>
+    <string name="sign_in_button">Sign In with Email</string>
+    <string name="welcome_kiara">Bienvenido a Minou - Asociados</string>
+    <string name="signout_button">Sign Out</string>
+    <string name="location_settings_inadequate_warning">The location settings on the device are not         adequate to run this sample. Fix in Settings.</string>
+    <string name="latitude_label">Latitud</string>
+    <string name="longitude_label">Longitud</string>
+    <string name="last_update_time_label">Última actualización</string>
+    <string name="permission_rationale">Permiso de localización es necesario para el funcionamiento básico de la aplicación</string>
+    <string name="permission_denied_explanation">El permiso fue negado, sin embargo es necesario para le funcionamiento básico de la aplicación</string>
+    <string name="settings">Configuración</string>
+</resources>

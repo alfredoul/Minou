@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "263019307115",
+    "firebase_url": "https://kiara-eda78.firebaseio.com",
+    "project_id": "kiara-eda78",
+    "storage_bucket": "kiara-eda78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263019307115:android:1e2879444ba7d095",
+        "android_client_info": {
+          "package_name": "com.lucatecno.kiara"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263019307115-phismhk3q2tfhjlu5qo35ur02fo5vf57.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lucatecno.kiara",
+            "certificate_hash": "d47750271c5538a366f97c36ffd50a98ad2a9cf2"
+          }
+        },
+        {
+          "client_id": "263019307115-t72eaajukfcu8idr98dnhlhuah89faa6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF-QGDsz7i_SOx0S75IjUwD1uNdBOwXec"
+        },
+        {
+          "current_key": "AIzaSyDBP0r7zyiBO96ledtG6war6sE5cNKQleI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263019307115-t72eaajukfcu8idr98dnhlhuah89faa6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263019307115:android:bb614698b3e38701",
+        "android_client_info": {
+          "package_name": "com.lucatecno.minou"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263019307115-lth36q4o9nrsrvgbuhm5o7s8v9k7gqt1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lucatecno.minou",
+            "certificate_hash": "d47750271c5538a366f97c36ffd50a98ad2a9cf2"
+          }
+        },
+        {
+          "client_id": "263019307115-t72eaajukfcu8idr98dnhlhuah89faa6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF-QGDsz7i_SOx0S75IjUwD1uNdBOwXec"
+        },
+        {
+          "current_key": "AIzaSyDBP0r7zyiBO96ledtG6war6sE5cNKQleI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263019307115-t72eaajukfcu8idr98dnhlhuah89faa6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
